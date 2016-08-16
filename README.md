@@ -37,7 +37,7 @@ Configure your database host user name in ''' config.php''' file.
 
 ## Authors
 
-* **Maruf Alom** - *Coding* - [1256](https://github.com/PurpleBooth)
+* **Maruf Alom** - *Coding* - Roll: [1256]
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 

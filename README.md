@@ -47,4 +47,4 @@ Configure your database host user name in ''' config.php''' file.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License 

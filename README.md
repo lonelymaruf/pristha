@@ -3,6 +3,15 @@
 Pristha is created for university semester project (Software Engineering). 
 Live: http://maruf.me/pristha
 
+
+## Team
+
+* **Maruf Alom** - *Coding* - Roll: 1256
+* **Fahim Shahariar Himel** - *Data Entry* - Roll: 1259
+* **Md. Sabuj Ali** -*Testing*- Roll: 1276
+* **Md. Ariful Islam - *Documentation* - Roll: 1249
+* **Md. Mehedi Hasan - *Project Manager* - Roll: 1253
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -35,11 +44,6 @@ Configure your database host user name in ''' config.php''' file.
 * Bootstrap-responsive
 * Notepad++
 
-## Authors
-
-* **Maruf Alom** - *Coding* - Roll: [1256]
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 

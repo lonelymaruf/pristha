@@ -9,71 +9,35 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisities
 
-What things you need to install the software and how to install them
+What things you need to install pristha and how to install them
 
 ```
-Give examples
+Apache
+PHP 5 
+and MySQL 
 ```
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
-
-Stay what the step will be
+Download master file in zip file. Unzip it to your server "www" or "public_html" directory. 
 
 ```
-Give the example
+import marufme_pristha.sql 
 ```
 
-And repeat
+to mysql database. 
+Configure your database host user name in ''' config.php''' file. 
 
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* Dropwizard - Bla bla bla
-* Maven - Maybe
-* Atom - ergaerga
-
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+* Bootstrap
+* Bootstrap-responsive
+* Notepad++
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Maruf Alom** - *Coding* - [1256](https://github.com/PurpleBooth)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 

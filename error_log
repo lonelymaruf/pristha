@@ -1,0 +1,8 @@
+[16-Aug-2016 10:04:15 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marufme/public_html/pristha/cse.php on line 105
+[16-Aug-2016 10:05:30 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marufme/public_html/pristha/list.php on line 245
+[16-Aug-2016 10:05:31 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marufme/public_html/pristha/list.php on line 245
+[16-Aug-2016 10:05:38 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marufme/public_html/pristha/cse.php on line 105
+[16-Aug-2016 10:05:42 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marufme/public_html/pristha/cse.php on line 105
+[16-Aug-2016 10:08:47 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marufme/public_html/pristha/list.php on line 245
+[16-Aug-2016 10:09:22 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marufme/public_html/pristha/list.php on line 245
+[16-Aug-2016 10:34:07 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/marufme/public_html/pristha/mathematics.php on line 105

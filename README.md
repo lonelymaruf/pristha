@@ -35,7 +35,7 @@ import marufme_pristha.sql
 ```
 
 to mysql database. 
-Configure your database host user name in ''' config.php''' file. 
+Configure your information in  ''' config.php''' file. 
 
 
 ## Built With

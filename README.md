@@ -1,6 +1,6 @@
 # Pritha - Sell used books! 
 
-Pristha is created for university semester project (Software Engineering). 
+Pristha is created for university semester project (Software Engineering) taught by Kazi Hasan Robin sir. 
 Live: http://maruf.me/pristha
 
 

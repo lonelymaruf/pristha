@@ -9,8 +9,8 @@ Live: http://maruf.me/pristha
 * **Maruf Alom** - *Coding* - Roll: 1256
 * **Fahim Shahariar Himel** - *Data Entry* - Roll: 1259
 * **Md. Sabuj Ali** -*Testing*- Roll: 1276
-* **Md. Ariful Islam - *Documentation* - Roll: 1249
-* **Md. Mehedi Hasan - *Project Manager* - Roll: 1253
+* **Md. Ariful Islam** - *Documentation* - Roll: 1249
+* **Md. Mehedi Hasan** - *Project Manager* - Roll: 1253
 
 ## Getting Started
 
